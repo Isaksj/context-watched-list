@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "contextmanagement-ac667",
+    "contextManagement": "contextmanagement-ac667"
+  },
+  "targets": {}
+}
